@@ -1,0 +1,26 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # 12:00 AM UTC (03:00 AM Somalia)
+  workflow_dispatch:     # si aad manual u ordi karto
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Create Dummy Commit
+        run: |
+          date > date.txt
+          git config user.name "somiaapdalla"
+          git config user.email "somiadesu2003@gmail.com"
+          git add date.txt
+          git commit -m "Automated commit" || echo "No changes to commit"
+          git push

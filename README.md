@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumaya</h1>
 <h3 align="center">
-Software Engineering student & aspiring Full Stack Developer  
+Software Engineering student & Full Stack Developer  
 from Mogadishu, Somalia
 </h3>
 
@@ -13,8 +13,8 @@ alt="somiaapdalla" />
 </p>
 
 - 🎓 Student at **Zamzam University of Science and Technology**
-- 🌱 Building projects with **HTML, CSS, JavaScript, React**
-- 💬 Ask me about **Frontend Web Development**
+- 🌱 Building full stack projects with **HTML, CSS, JavaScript, React, Node.js, express js, mangoDB
+- 💬 Ask me about **Frontend & Backend Web Development**
 - 🌟 Passionate about learning and growing through real projects
 - ⚡ Fun fact: *Consistency beats talent*
 
@@ -42,6 +42,7 @@ alt="somiaapdalla" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
 </p>
 

@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumaya</h1>
 <h3 align="center">
-Software Engineering student & Full Stack Developer  
+Software Engineering Student & Full Stack Developer  
 from Mogadishu, Somalia
 </h3>
 
@@ -13,7 +13,7 @@ alt="somiaapdalla" />
 </p>
 
 - 🎓 Student at **Zamzam University of Science and Technology**
-- 🌱 Building full stack projects with **HTML, CSS, JavaScript, React, Node.js, express js, mangoDB
+- 🌱 Building full stack projects with **HTML, CSS, JavaScript, React, Node.js, Express, MongoDB, Python**
 - 💬 Ask me about **Frontend & Backend Web Development**
 - 🌟 Passionate about learning and growing through real projects
 - ⚡ Fun fact: *Consistency beats talent*
@@ -27,6 +27,13 @@ alt="somiaapdalla" />
   src="https://cdn-icons-png.flaticon.com/512/732/732200.png"
   height="30" width="40" />
 </a>
+
+<a href="https://www.linkedin.com/in/sumeya-abdallah-mohamed-/" target="_blank">
+  <img align="center"
+  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"
+  height="30" width="40" />
+</a>
+
 <a href="https://github.com/somiaapdalla" target="_blank">
   <img align="center"
   src="https://cdn-icons-png.flaticon.com/512/733/733553.png"
@@ -43,6 +50,9 @@ alt="somiaapdalla" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="40" height="40"/>
 </p>
 
